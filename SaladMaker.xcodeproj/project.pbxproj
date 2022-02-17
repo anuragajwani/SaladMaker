@@ -17,6 +17,7 @@
 		1B7DBBEA258549B8008745A8 /* IngredientPreppingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B7DBBE9258549B8008745A8 /* IngredientPreppingView.swift */; };
 		1B7DBBED25854A34008745A8 /* Ingredient.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B7DBBEC25854A34008745A8 /* Ingredient.swift */; };
 		1B7DBBF02585502E008745A8 /* SaladMaker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B7DBBEF2585502E008745A8 /* SaladMaker.swift */; };
+		7F8B910F27BEEA6700693A42 /* AnotherNewFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F8B910E27BEEA6700693A42 /* AnotherNewFile.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		1B7DBBE9258549B8008745A8 /* IngredientPreppingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IngredientPreppingView.swift; sourceTree = "<group>"; };
 		1B7DBBEC25854A34008745A8 /* Ingredient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ingredient.swift; sourceTree = "<group>"; };
 		1B7DBBEF2585502E008745A8 /* SaladMaker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SaladMaker.swift; sourceTree = "<group>"; };
+		7F8B910E27BEEA6700693A42 /* AnotherNewFile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnotherNewFile.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +77,7 @@
 				1B7DBBE9258549B8008745A8 /* IngredientPreppingView.swift */,
 				1B7DBBEC25854A34008745A8 /* Ingredient.swift */,
 				1B7DBBEF2585502E008745A8 /* SaladMaker.swift */,
+				7F8B910E27BEEA6700693A42 /* AnotherNewFile.swift */,
 			);
 			path = SaladMaker;
 			sourceTree = "<group>";
@@ -164,6 +167,7 @@
 				1B7DBBE125850124008745A8 /* SaladPreppingView.swift in Sources */,
 				1B7DBBEA258549B8008745A8 /* IngredientPreppingView.swift in Sources */,
 				1B7DBBE7258547F1008745A8 /* SaladCompletedView.swift in Sources */,
+				7F8B910F27BEEA6700693A42 /* AnotherNewFile.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
